@@ -10,14 +10,20 @@
 
 </details>
 
-## Código
+## Caracteristicas implementadas
 Este codigo por el momento permite representar un arbol binario simple.<br>
 
 | Funciones | Y/N |
 | :--------------------: | :---: |
 | Agregar nodos | ✅ |
 | Eliminar nodos | ✅ |
-
+| Recorrer PreOrden | ❌ |
+| Recorrer PostOrden |  ❌ |
+| Recorrer EnOrden|  ❌ |
+| Arbol Simple | ✅ |
+| Arvol AVL | ❌|
+| Arbol RojoNegro |  ❌|
+| Mas funcionalidades Proximamente | ♻️ |
 </details>
 
 
