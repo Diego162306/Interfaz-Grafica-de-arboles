@@ -21,7 +21,7 @@ Este codigo por el momento permite representar un arbol binario simple.<br>
 </details>
 
 
-## Demostracion
+## Explicación
 [_>] _Agregar Nodos_
 
 <summary> Ingresar dato (Valor: [ X ] Añadir Nodo)
