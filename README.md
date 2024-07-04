@@ -6,12 +6,11 @@
   
 ## Requerimientos
 <br>
-[_>] Generar una interfaz gráfica de escritorio, que soporte los elementos de un árbol binario de búsqueda y pinte el recorrido tanto en preorden, inorden y postorde.
+[_>]  Generar una interfaz gráfica de escritorio, que soporte los elementos de un árbol binario de búsqueda y pinte el recorrido tanto en preorden, inorden y postorde.
 
 </details>
 
 ## Caracteristicas implementadas
-Este codigo por el momento permite representar un arbol binario simple.<br>
 
 | Funciones | Y/N |
 | :--------------------: | :---: |
