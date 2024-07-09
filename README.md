@@ -1,6 +1,6 @@
 # Interfaz-Grafica-de-arboles
 <div align="center">
-<p><img src="https://64.media.tumblr.com/e0137890409b2ef9feda3a8c4e7cfb37/531b611a0db66eb0-35/s1280x1920/36ab6b75b1f5e3209b04f6151460db2917de3db6.gifv" alt="GIF" width="400" height="230"></p><p>
+<p><img src="https://raw.githubusercontent.com/Diego162306/Interfaz-Grafica-de-arboles/main/Cap.ESTdts/200.gif" alt="GIF" width="400" height="230"></p><p>
 <div align="left"><br>
 </details>
   
