@@ -16,11 +16,11 @@
 | :--------------------: | :---: |
 | Agregar nodos | ✅ |
 | Eliminar nodos | ✅ |
-| Recorrer PreOrden | ❌ |
-| Recorrer PostOrden |  ❌ |
-| Recorrer EnOrden|  ❌ |
+| Recorrer PreOrden | ✅ |
+| Recorrer PostOrden |  ✅ |
+| Recorrer EnOrden|  ✅ |
 | Arbol Simple | ✅ |
-| Arvol AVL | ❌|
+| Arvol AVL | ✅|
 | Arbol RojoNegro |  ❌|
 | Mas funcionalidades Proximamente | ♻️ |
 </details>
