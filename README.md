@@ -1,7 +1,8 @@
-# Interfaz-Grafica-de-arboles
+# Interfaz Grafica de arboles
 <div align="center">
-<p><img src="https://raw.githubusercontent.com/Diego162306/Interfaz-Grafica-de-arboles/main/Cap.ESTdts/200.gif" alt="GIF" width="400" height="230"></p><p>
-<div align="left"><br>
+<a> <img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=00FF00&center=falso&vCenter=falso&lines=Bienvenido+a+este+repositorio.+✨" height="150px"></a>
+<p><img src="https://raw.githubusercontent.com/Diego162306/Interfaz-Grafica-de-arboles/main/Cap.ESTdts/200.gif" alt="GIF" width="400" height="250"></p>
+</div>
 </details>
   
 ## Requerimientos
