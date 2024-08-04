@@ -3,15 +3,13 @@
 <a> <img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=00FF00&center=falso&vCenter=falso&lines=Bienvenido+a+este+repositorio.+✨" height="150px"></a>
 <p><img src="https://raw.githubusercontent.com/Diego162306/Interfaz-Grafica-de-arboles/main/Cap.ESTdts/200.gif" alt="GIF" width="400" height="250"></p>
 </div>
-</details>
+
   
-## Requerimientos
-<br>
-[_>]  Generar una interfaz gráfica de escritorio, que soporte los elementos de un árbol binario de búsqueda y pinte el recorrido tanto en preorden, inorden y postorde.
+## Requerimientos 👑
 
-</details>
+- Generar una interfaz gráfica de escritorio, que soporte los elementos de un árbol binario de búsqueda y pinte el recorrido tanto en preorden, inorden y postorde.
 
-## Caracteristicas implementadas
+## Caracteristicas implementadas 🪄
 
 | Funciones | Y/N |
 | :--------------------: | :---: |
@@ -24,10 +22,8 @@
 | Arvol AVL | ✅|
 | Arbol RojoNegro |  ❌|
 | Mas funcionalidades Proximamente | ♻️ |
-</details>
 
-
-## Explicación
+## Explicación 👇
 [_>] _Agregar Nodos_
 
 <summary> Ingresar dato (Valor: [ X ] Añadir Nodo)
